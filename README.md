@@ -11,4 +11,4 @@
 
 ![Picture4](/Resources/vine_table.png)<br />
 > Second part is shown in following image which include the numbers and percantage relation paid and unpaid reviews. <br />
-> ![Picture5](/Resources/percantage.png)
+> ![Picture5](/Resources/percentage.png)
